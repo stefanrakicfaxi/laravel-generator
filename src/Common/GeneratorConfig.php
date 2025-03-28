@@ -2,7 +2,7 @@
 
 namespace InfyOm\Generator\Common;
 
-use Illuminate\Console\Command;
+use Illuminate\Support\Console\Command;
 use Illuminate\Support\Str;
 use InfyOm\Generator\DTOs\GeneratorNamespaces;
 use InfyOm\Generator\DTOs\GeneratorOptions;

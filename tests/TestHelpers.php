@@ -1,6 +1,6 @@
 <?php
 
-use Illuminate\Console\Command;
+use Illuminate\Support\Console\Command;
 use InfyOm\Generator\Common\GeneratorConfig;
 use Mockery as m;
 
