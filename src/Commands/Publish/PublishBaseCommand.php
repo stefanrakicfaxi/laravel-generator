@@ -2,7 +2,7 @@
 
 namespace InfyOm\Generator\Commands\Publish;
 
-use Illuminate\Support\Console\Command;
+use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;
 
 class PublishBaseCommand extends Command

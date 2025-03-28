@@ -2,7 +2,7 @@
 
 namespace InfyOm\Generator\Commands;
 
-use Illuminate\Support\Console\Command;
+use Illuminate\Console\Command;
 use Illuminate\Support\Composer;
 use Illuminate\Support\Str;
 use InfyOm\Generator\Common\GeneratorConfig;
